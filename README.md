@@ -57,7 +57,3 @@ The app relies on structured JSON like this to generate gift ideas:
 }
 
 ```
-
----
-
-**Would you like me to write the actual JavaScript `fetch()` code that links these four JSON files together in your `script.js`?**
