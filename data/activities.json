@@ -1,0 +1,60 @@
+{
+  "general": {
+    "suggested": [
+      "Music playlist tailored to the festival",
+      "Decorations with traditional colors and motifs",
+      "Food tasting table with regional specialties"
+    ]
+  },
+  "Diwali": {
+    "suggested": [
+      "Rangoli making station",
+      "Traditional sweets tasting",
+      "Small diya lighting ceremony"
+    ]
+  },
+  "Eid al-Fitr": {
+    "suggested": [
+      "Shared feast with friends and family",
+      "Gift-wrapping corner for sweets",
+      "Card exchange with blessing notes"
+    ]
+  }
+  ,
+  "New Year's Day": { "suggested": ["Countdown party","Resolution board activity","Photo booth with props"] },
+  "Orthodox Christmas": { "suggested": ["Caroling and hymns","Family meal","Gift exchange"] },
+  "Lunar New Year": { "suggested": ["Lion/dragon dance viewing","Red-envelope exchange","Lantern making"] },
+  "Thaipusam": { "suggested": ["Temple visit coordination","Devotional music","Community offerings"] },
+  "Carnival of Rio de Janeiro": { "suggested": ["Costume parade","Dance competitions","Float decorations"] },
+  "Lantern Festival": { "suggested": ["Lantern release","Riddle solving","Moon-gazing tea time"] },
+  "Mardi Gras": { "suggested": ["Mask decorating","Parade float viewing","Bead toss games"] },
+  "Holi": { "suggested": ["Color throwing zones","Traditional sweets tasting","Water play area"] },
+  "St. Patrick's Day": { "suggested": ["Parade watching","Irish music session","Green-themed games"] },
+  "Nowruz": { "suggested": ["Haft-Seen table setup","Spring cleaning activities","Poetry reading"] },
+  "Ramadan": { "suggested": ["Iftar community meal","Evening prayers","Charity drive"] },
+  "Easter": { "suggested": ["Egg hunt","Easter brunch","Family crafts"] },
+  "Songkran": { "suggested": ["Water games","Cultural performances","Traditional food stalls"] },
+  "Vaisakhi": { "suggested": ["Community parade","Traditional music","Langar/communal meal"] },
+  "Earth Day": { "suggested": ["Community cleanup","Planting activity","Sustainability workshop"] },
+  "Cinco de Mayo": { "suggested": ["Mexican folk dance","Street food tasting","Pinata games"] },
+  "Vesak": { "suggested": ["Meditation session","Candle lighting","Buddhist teachings talk"] },
+  "Juneteenth": { "suggested": ["Historical storytelling","Community picnic","Live performances"] },
+  "Summer Solstice": { "suggested": ["Sunrise/sunset gathering","Outdoor music","Bonfire circle"] },
+  "Eid al-Adha": { "suggested": ["Community feast","Charity distribution","Religious observance coordination"] },
+  "Canada Day": { "suggested": ["Fireworks viewing","Outdoor concerts","Community BBQ"] },
+  "Independence Day": { "suggested": ["Fireworks show","Parade and banners","Family BBQ"] },
+  "Bastille Day": { "suggested": ["French music and dance","Public celebrations","Communal meals"] },
+  "Obon": { "suggested": ["Bon dance (Bon Odori)","Lantern floating","Ancestral rites"] },
+  "La Tomatina": { "suggested": ["Organized food fight area","Safety briefing","Festival souvenirs"] },
+  "Mid-Autumn Festival": { "suggested": ["Mooncake tasting","Lantern making","Family tea time"] },
+  "Oktoberfest": { "suggested": ["Beer tasting","Traditional music","Pretzel baking demos"] },
+  "Diwali": { "suggested": ["Rangoli and diya making","Fireworks viewing","Sweet-making workshop"] },
+  "Halloween": { "suggested": ["Costume contest","Haunted trail","Pumpkin carving station"] },
+  "Día de los Muertos": { "suggested": ["Altar creation","Sugar skull decorating","Storytelling about ancestors"] },
+  "Loy Krathong": { "suggested": ["Krathong making","River lantern release","Traditional music performance"] },
+  "Hanukkah": { "suggested": ["Menorah lighting","Dreidel games","Latke cooking" ]},
+  "Winter Solstice (Yule)": { "suggested": ["Candle ceremony","Seasonal storytelling","Evergreen crafts"] },
+  "Christmas Day": { "suggested": ["Gift exchange","Holiday carols","Family dinner"] },
+  "Kwanzaa": { "suggested": ["Kinara lighting","Communal feast","Cultural workshops"] }
+}
+

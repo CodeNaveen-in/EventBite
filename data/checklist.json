@@ -1,0 +1,84 @@
+{
+  "festival_party_planner": {
+    "event_details": {
+      "selected_festival": "Select from festivals_worldwide list",
+      "host_name": "",
+      "event_date": "",
+      "venue": "",
+      "theme_colors": []
+    },
+    "checklists": {
+      "phase_1_cultural_research": [
+        { "task": "Identify traditional significance of the festival", "is_completed": false },
+        { "task": "Define traditional dress code (e.g., White for Holi, Costumes for Halloween)", "is_completed": false },
+        { "task": "Check lunar/solar dates to ensure accuracy with 'festivals_worldwide' data", "is_completed": false }
+      ],
+      "phase_2_logistics": [
+        { "task": "Finalize guest list and send invitations", "is_completed": false },
+        { "task": "Set a total budget including 'Specialty Festival Items'", "is_completed": false },
+        { "task": "Book catering or create a traditional menu (e.g., Mooncakes for Mid-Autumn)", "is_completed": false },
+        { "task": "Secure necessary permits (especially for fire/fireworks festivals like Diwali)", "is_completed": false }
+      ],
+      "phase_3_decor_and_supplies": [
+        { "task": "Purchase festival-specific items (e.g., Diyas, Pumpkins, Red Envelopes)", "is_completed": false },
+        { "task": "Curate a playlist featuring regional or festival-themed music", "is_completed": false },
+        { "task": "Order floral arrangements or traditional greenery", "is_completed": false },
+        { "task": "Set up a photo booth with festival-relevant props", "is_completed": false }
+      ],
+      "phase_4_food_and_beverage": [
+        { "task": "Prepare 'Signature Festival Drink' (e.g., Thandai for Holi, Beer for Oktoberfest)", "is_completed": false },
+        { "task": "Verify dietary restrictions for religious observances (Halal, Kosher, Vegetarian)", "is_completed": false },
+        { "task": "Arrange for traditional sweets or dessert sharing", "is_completed": false }
+      ],
+      "phase_5_the_final_countdown": [
+        { "task": "Confirm arrival of any guest speakers or performers", "is_completed": false },
+        { "task": "Clean and layout the 'Celebration Zone'", "is_completed": false },
+        { "task": "Prepare take-home favors/gifts for guests", "is_completed": false },
+        { "task": "Ice down beverages 3 hours before start", "is_completed": false }
+      ]
+    },
+    "post_celebration": [
+      { "task": "Share event photos with guests", "is_completed": false },
+      { "task": "Send thank-you notes referencing the festival spirit", "is_completed": false }
+    ]
+    ,
+    "festival_templates": {
+      "New Year's Day": ["Plan countdown playlist","Prepare party favors","Organize toasts","Decorate with confetti"],
+      "Orthodox Christmas": ["Prepare traditional meal","Decorate family tree/altar","Arrange gift exchange","Attend religious service"],
+      "Lunar New Year": ["Prepare red envelopes","Clean and decorate home","Cook traditional dishes","Host family reunion"],
+      "Thaipusam": ["Coordinate devotional offerings","Arrange transport to temple","Prepare prasad (sweets)","Volunteer support roles"],
+      "Carnival of Rio de Janeiro": ["Secure parade attire","Plan group choreography","Arrange travel/logistics","Prepare hydration stations"],
+      "Lantern Festival": ["Make lanterns","Plan lantern-release area","Prepare sweet treats","Safety briefing for open flames"],
+      "Mardi Gras": ["Plan bead and mask distribution","Arrange music lineup","Set parade route","Coordinate cleanup crew"],
+      "Holi": ["Source natural colors","Prepare protective gear","Set up color zones","Arrange water/refreshments"],
+      "St. Patrick's Day": ["Plan green-themed menu","Organize parade/viewing","Decorate with shamrocks","Prepare beverages"] ,
+      "Nowruz": ["Set Haft-Seen","Prepare new clothes","Cook festive dishes","Host family visiting schedule"],
+      "Ramadan": ["Plan iftar schedule","Arrange prayer space","Organize charity drives","Coordinate guest invitations"],
+      "Easter": ["Plan egg hunt","Prepare brunch menu","Decorate with spring flowers","Organize family activities"],
+      "Songkran": ["Arrange water games","Secure outdoor area","Prepare traditional costumes","Coordinate safety measures"],
+      "Eid al-Fitr": ["Prepare sweet platters","Arrange new clothing","Organize family visits","Plan gift distribution"],
+      "Vaisakhi": ["Arrange community langar","Plan cultural performances","Decorate with traditional banners","Coordinate volunteers"],
+      "Earth Day": ["Organize cleanup event","Prepare reusable giveaways","Coordinate volunteer brief","Plan educational activities"],
+      "Cinco de Mayo": ["Plan Mexican-themed menu","Arrange music/dance","Decorate with papel picado","Organize community vendors"],
+      "Vesak": ["Prepare offerings","Set up meditation space","Organize chanting schedule","Coordinate candle-lighting"],
+      "Juneteenth": ["Organize historical exhibits","Plan community picnic","Coordinate music lineup","Prepare educational materials"],
+      "Summer Solstice": ["Plan outdoor festival","Arrange lighting for evening","Organize nature walks","Prepare picnic provisions"],
+      "Eid al-Adha": ["Coordinate food sharing","Arrange ceremonial logistics","Prepare charity packages","Plan community meal"],
+      "Canada Day": ["Plan fireworks viewing","Arrange BBQ supplies","Decorate with flags","Coordinate public announcements"],
+      "Independence Day": ["Plan fireworks safety","Arrange patriotic decor","Organize BBQ/food","Coordinate community events"],
+      "Bastille Day": ["Plan French-themed menu","Arrange cultural program","Decorate in national colors","Coordinate fireworks/viewing"],
+      "Obon": ["Prepare ancestral altars","Plan lantern release","Arrange traditional dances","Organize community memorials"],
+      "La Tomatina": ["Arrange protective gear","Plan cleanup crew","Coordinate transport","Prepare festival t-shirts"],
+      "Mid-Autumn Festival": ["Prepare mooncakes","Arrange lantern-making","Plan family tea time","Decorate with moon motifs"],
+      "Oktoberfest": ["Plan beer garden layout","Arrange traditional music","Coordinate food vendors","Prepare seating/tables"],
+      "Diwali": ["Purchase diyas and lights","Prepare sweets","Plan Rangoli area","Coordinate fireworks safely"],
+      "Halloween": ["Plan trick-or-treat route","Organize costume contest","Decorate with spooky props","Prepare candy stations"],
+      "Día de los Muertos": ["Set up ofrenda (altar)","Prepare sugar skulls","Arrange marigold decorations","Coordinate storytelling"],
+      "Loy Krathong": ["Make krathongs","Plan river/pond access","Prepare floating candles","Coordinate safety measures"],
+      "Hanukkah": ["Prepare menorah and candles","Plan nightly gatherings","Organize traditional foods","Arrange gift exchanges"],
+      "Winter Solstice (Yule)": ["Plan seasonal menu","Decorate with evergreens","Arrange candle ceremony","Prepare warm beverages"],
+      "Christmas Day": ["Prepare gifts","Bake holiday treats","Decorate tree","Plan family dinner"],
+      "Kwanzaa": ["Set up kinara","Plan cultural program","Organize communal meal","Prepare educational sessions"]
+    }
+  }
+}

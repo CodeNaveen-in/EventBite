@@ -1,0 +1,73 @@
+{
+  "gift_planner_filter": {
+    "filter_categories": {
+      "by_festival_type": [
+        {
+          "type": "Religious",
+          "suggested_gift_themes": ["Devotional items", "Traditional sweets", "Charitable donations", "Home decor"],
+          "festivals_included": ["Diwali", "Eid al-Fitr", "Hanukkah", "Easter", "Vesak"]
+        },
+        {
+          "type": "Secular",
+          "suggested_gift_themes": ["Tech gadgets", "Experience vouchers", "Subscription boxes", "Personalized stationery"],
+          "festivals_included": ["New Year's Day", "Independence Day", "Canada Day", "Earth Day"]
+        },
+        {
+          "type": "Cultural",
+          "suggested_gift_themes": ["Regional handicrafts", "Traditional attire", "Gourmet food baskets", "Art supplies"],
+          "festivals_included": ["Lunar New Year", "Holi", "Songkran", "Día de los Muertos"]
+        }
+      ],
+      "by_age_demographic": [
+        { "group": "Children", "categories": ["Toys", "Educational kits", "Confectionery"] },
+        { "group": "Teens", "categories": ["Electronics", "Fashion accessories", "Gaming"] },
+        { "group": "Adults", "categories": ["Home & Living", "Wellness & Spa", "Books"] },
+        { "group": "Seniors", "categories": ["Comfort items", "Memory keepsakes", "Health & Hobby"] }
+      ],
+      "by_price_tier": [
+        { "label": "Token of Appreciation", "range": "$0 - $20" },
+        { "label": "Mid-Range", "range": "$21 - $100" },
+        { "label": "Premium/Luxury", "range": "$101+" }
+      ]
+    },
+    "festival_specific_mappings": [
+      { "festival_name": "Lunar New Year", "primary_tradition": "Red Envelopes (Hongbao)", "gift_ideas": ["Crisp currency notes", "Gold jewelry", "High-quality tea sets"] },
+      { "festival_name": "Diwali", "primary_tradition": "Gifting sweets and light", "gift_ideas": ["Decorative Diyas", "Assorted Dry Fruits", "Silver coins"] },
+      { "festival_name": "Halloween", "primary_tradition": "Treats and costumes", "gift_ideas": ["Themed candy baskets", "Costume accessories", "Spooky home decor"] },
+      { "festival_name": "Valentine's Day", "primary_tradition": "Tokens of affection", "gift_ideas": ["Jewelry", "Flowers", "Chocolates"] },
+      { "festival_name": "New Year's Day", "primary_tradition": "Celebratory gifts and experiences", "gift_ideas": ["Experience vouchers", "Champagne or sparkling non-alcoholic beverages", "Party kits"] },
+      { "festival_name": "Orthodox Christmas", "primary_tradition": "Religious and family gifts", "gift_ideas": ["Religious icons", "Warm clothing", "Traditional sweets"] },
+      { "festival_name": "Thaipusam", "primary_tradition": "Devotional offerings", "gift_ideas": ["Offerings for temples", "Traditional sweets", "Fruit baskets"] },
+      { "festival_name": "Carnival of Rio de Janeiro", "primary_tradition": "Parade and celebration", "gift_ideas": ["Costume accessories", "Party masks", "Festival-themed souvenirs"] },
+      { "festival_name": "Lantern Festival", "primary_tradition": "Lantern gifting and sharing", "gift_ideas": ["Lantern kits", "Sweets and tea", "Decorative paper crafts"] },
+      { "festival_name": "Mardi Gras", "primary_tradition": "Beads and revelry", "gift_ideas": ["Bead necklaces", "Masks", "Party favors"] },
+      { "festival_name": "Holi", "primary_tradition": "Colors and sweets", "gift_ideas": ["Natural color packs", "Traditional sweets", "Festive garments"] },
+      { "festival_name": "St. Patrick's Day", "primary_tradition": "Symbolic gifts", "gift_ideas": ["Green apparel", "Celtic-themed jewelry", "Irish confectionery"] },
+      { "festival_name": "Nowruz", "primary_tradition": "New year hospitality", "gift_ideas": ["Sweets and nuts", "Household items", "Decorative Haft-Seen items"] },
+      { "festival_name": "Ramadan", "primary_tradition": "Charity and fasting observance", "gift_ideas": ["Dates and sweets", "Charitable donations", "Prayer mats"] },
+      { "festival_name": "Easter", "primary_tradition": "Eggs and family treats", "gift_ideas": ["Chocolate eggs", "Religious keepsakes", "Spring flowers"] },
+      { "festival_name": "Songkran", "primary_tradition": "Water and renewal", "gift_ideas": ["Travel-sized toiletries", "Lightweight clothing", "Local snacks"] },
+      { "festival_name": "Eid al-Fitr", "primary_tradition": "Feasting and gifts", "gift_ideas": ["Sweets and gift boxes", "New clothes", "Charitable gifts"] },
+      { "festival_name": "Vaisakhi", "primary_tradition": "Harvest and community", "gift_ideas": ["Traditional foods", "Handicrafts", "Textiles"] },
+      { "festival_name": "Earth Day", "primary_tradition": "Eco-friendly giving", "gift_ideas": ["Plants and seeds", "Reusable items", "Donation to environmental causes"] },
+      { "festival_name": "Cinco de Mayo", "primary_tradition": "Cultural celebration", "gift_ideas": ["Party kits", "Mexican confectionery", "Themed decor"] },
+      { "festival_name": "Vesak", "primary_tradition": "Buddhist offerings", "gift_ideas": ["Incense and candles", "Books on Buddhism", "Charitable donations"] },
+      { "festival_name": "Juneteenth", "primary_tradition": "Freedom and community", "gift_ideas": ["Books by Black authors", "Community event tickets", "Art prints"] },
+      { "festival_name": "Summer Solstice", "primary_tradition": "Outdoor gatherings", "gift_ideas": ["Picnic gear", "Solar lanterns", "Herbal teas"] },
+      { "festival_name": "Eid al-Adha", "primary_tradition": "Sacrificial tradition and sharing", "gift_ideas": ["Food packages for families", "Traditional sweets", "Religious items"] },
+      { "festival_name": "Canada Day", "primary_tradition": "National celebration", "gift_ideas": ["Patriotic apparel", "Maple-themed treats", "Outdoor party supplies"] },
+      { "festival_name": "Independence Day", "primary_tradition": "Patriotic celebration", "gift_ideas": ["BBQ kits", "Fireworks-safe toys", "Patriotic decor"] },
+      { "festival_name": "Bastille Day", "primary_tradition": "National celebration", "gift_ideas": ["French confectionery", "Wine (where legal)", "Cultural souvenirs"] },
+      { "festival_name": "Obon", "primary_tradition": "Ancestral remembrance", "gift_ideas": ["Lanterns", "Seasonal sweets", "Floral offerings"] },
+      { "festival_name": "La Tomatina", "primary_tradition": "Food fight souvenir", "gift_ideas": ["Festival t-shirts", "Protective eyewear", "Photo keepsakes"] },
+      { "festival_name": "Mid-Autumn Festival", "primary_tradition": "Mooncakes and family", "gift_ideas": ["Mooncakes", "Tea sets", "Lanterns"] },
+      { "festival_name": "Oktoberfest", "primary_tradition": "Beer and camaraderie", "gift_ideas": ["Beer steins", "Bavarian-style apparel", "Snack baskets"] },
+      { "festival_name": "Día de los Muertos", "primary_tradition": "Altars and remembrance", "gift_ideas": ["Sugar skulls", "Marigold arrangements", "Photo frames for altars"] },
+      { "festival_name": "Loy Krathong", "primary_tradition": "Floating baskets", "gift_ideas": ["Decorative krathongs", "Floating candles", "Traditional sweets"] },
+      { "festival_name": "Hanukkah", "primary_tradition": "Candles and gifts", "gift_ideas": ["Menorahs and candles", "Dreidels", "Traditional foods"] },
+      { "festival_name": "Winter Solstice (Yule)", "primary_tradition": "Seasonal celebration", "gift_ideas": ["Warm throws", "Seasonal treats", "Decorative candles"] },
+      { "festival_name": "Christmas Day", "primary_tradition": "Gifting and family", "gift_ideas": ["Toys and books", "Decorative ornaments", "Holiday treats"] },
+      { "festival_name": "Kwanzaa", "primary_tradition": "Cultural heritage gifts", "gift_ideas": ["Handmade crafts", "Books on heritage", "Community-focused gifts"] }
+    ]
+  }
+}

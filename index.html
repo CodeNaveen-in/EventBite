@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>EventBite</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="description" content="Global festival explorer and party planner" />
+ </head>
+<body>
+  <div id="bg-root" class="bg-root">
+    <div id="bg-overlay" class="bg-overlay"></div>
+  </div>
+
+  <header class="app-shell">
+    <h1>EventBite</h1>
+    <p>Explore festivals, gifts, activities and manage your checklist.</p>
+  </header>
+
+  <main class="app-shell">
+    <section class="panel">
+      <label for="festival-select">Choose a festival:</label>
+      <select id="festival-select">
+        <option value="">-- Select festival --</option>
+      </select>
+    </section>
+
+    <section class="panel" id="details">
+      <div>
+        <h2>Gift Suggestions</h2>
+        <ul id="gifts-list"></ul>
+      </div>
+      <div>
+        <h2>Activities</h2>
+        <ul id="activities-list"></ul>
+      </div>
+      <div>
+        <h2>Checklist</h2>
+        <ul id="checklist"></ul>
+        <button id="download-btn">Download Checklist (.json)</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
